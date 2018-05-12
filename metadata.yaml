@@ -15,6 +15,8 @@ creator:
     gutenberg_agent_id: '43269'
     url: http://www.gutenberg.org/2009/agents/43269
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45411#Trois-mois-sous-la-neigeJournal-d-un-jeune-habitant-du-Jura
 gutenberg_bookshelf: FR Jeunesse
 gutenberg_issued: '2014-04-16'
 gutenberg_type: Text

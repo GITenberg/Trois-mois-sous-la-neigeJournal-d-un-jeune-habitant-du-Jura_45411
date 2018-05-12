@@ -1,0 +1,35 @@
+_repo: Trois-mois-sous-la-neigeJournal-d-un-jeune-habitant-du-Jura_45411
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45411-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Porchat, J. Jacques (Jean Jacques)
+    aliases:
+    - Porchat, Jean Jacques
+    - Porchat, J. J. (Jean Jacques)
+    - Porchat, Jacques
+    birthdate: 1800
+    deathdate: 1884
+    gutenberg_agent_id: '43269'
+    url: http://www.gutenberg.org/2009/agents/43269
+description: ''
+gutenberg_bookshelf: FR Jeunesse
+gutenberg_issued: '2014-04-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45411'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Jura Mountains (France and Switzerland)'
+- !lcsh 'Accidents -- Jura Mountains (France and Switzerland)'
+- !lcsh 'Grandparent and child -- Jura Mountains (France and Switzerland)'
+- !lcsh 'Survival -- Jura Mountains (France and Switzerland)'
+- !lcc 'DC'
+- !lcsh 'Children and death -- Jura Mountains (France and Switzerland)'
+title: 'Trois mois sous la neige: Journal d''un jeune habitant du Jura'
+url: http://www.gutenberg.org/ebooks/45411
